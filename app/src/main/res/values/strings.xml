@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppTrabalho1</string>
+    <string name="go_to_disciplina">Disciplina</string>
+    <string name="go_to_disciplina_2"> 2° Elemento Lista de Disciplina </string>
+    <string name="saudacao">Para ver um objeto disciplina, clique no botão Disciplina, para visualizar o 2° elemento da lista de disciplinas, clique no outro botão </string>
+</resources>
